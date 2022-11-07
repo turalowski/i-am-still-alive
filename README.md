@@ -5,3 +5,5 @@
 [x] 05.11.2022
 [x] 06.11.2022
 - I eat American pancakes. It was terrible.
+[x] 07.11.2022
+- I check-in from Secure Systems and Networks class. I will be hacker.
