@@ -7,3 +7,5 @@
   - I eat American pancakes. It was terrible.
 - [x] 07.11.2022
   - I check-in from Secure Systems and Networks class. I will be hacker.
+- [x] 08.11.2022
+  - I check-in from English C1 class. It's so boring.
