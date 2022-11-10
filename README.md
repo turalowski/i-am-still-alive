@@ -11,3 +11,5 @@
   - I check-in from English C1 class. It's so boring.
 - [x] 09.11.2022
   - I'm moving from VS Code to NVim
+- [ ] 10.11.2022
+  - Tomorrow is day-off and I'm happy. Bad side is that I should spend long weekend to work on university projects
