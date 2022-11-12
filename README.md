@@ -15,4 +15,5 @@
   - Tomorrow is day-off and I'm happy. Bad side is that I should spend long weekend to work on university projects
 - [x] 11.11.2022
   - I'm still alive and fighting with Nvim.
-
+- [x] 12.11.2022
+  - Today we went to hiking. My legs are totally fucked up
