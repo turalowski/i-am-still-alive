@@ -1,6 +1,6 @@
 # Daily checkups
 
-## This repo describes I'm still alive or not. If not, please burn a candle for me. 
+## This repo describes I'm still alive or not. If not, please burn a candle for me.
 
 - [x] 05.11.2022
 - [x] 06.11.2022
@@ -17,3 +17,5 @@
   - I'm still alive and fighting with Nvim.
 - [x] 12.11.2022
   - Today we went to hiking. My legs are totally fucked up
+- [x] 13.11.2022
+  - I completed nvim setup. Now it's time to work on university projects
