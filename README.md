@@ -19,3 +19,7 @@
   - Today we went to hiking. My legs are totally fucked up
 - [x] 13.11.2022
   - I completed nvim setup. Now it's time to work on university projects
+- [x] 14.11.2022
+  - I was busy with university projects so I couldn't checkout
+- [x] 15.11.2022
+  - Town close to Poland-Ukrain border is bombed. 2 people died.
