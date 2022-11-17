@@ -25,3 +25,5 @@
   - Town close to Poland-Ukrain border is bombed. 2 people died.
 - [x] 16.11.2022
   - Trying to fix legal procedures to go to Azerbaijan. Hopefully I will be able to manage it
+- [x] 17.11.2022
+  - Good things need time
