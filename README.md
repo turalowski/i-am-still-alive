@@ -27,3 +27,9 @@
   - Trying to fix legal procedures to go to Azerbaijan. Hopefully I will be able to manage it
 - [x] 17.11.2022
   - Good things need time
+- [x] 18.11.2022
+  - We checked yarmark in Rynek. It was nice. I paid 20 zloty for shitty baklava. Totally money waste.
+- [x] 19.11.2022
+  - We went to gym and I slept most of the day. shitty day
+- [x] 20.11.2022
+  - Cezary invited me to breakfast. We had nice conversation.
