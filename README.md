@@ -33,3 +33,7 @@
   - We went to gym and I slept most of the day. shitty day
 - [x] 20.11.2022
   - Cezary invited me to breakfast. We had nice conversation.
+- [x] 21.11.2022
+  - Polish course is going good. Atom CE is deprecated
+- [x] 22.11.2022
+  - After amazing Database lesson, I'm working on some side projects.
